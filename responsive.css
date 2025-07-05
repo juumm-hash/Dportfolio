@@ -1,0 +1,288 @@
+@media only screen and (max-width:400px)
+{
+    .nav-links
+    {
+        display: block;
+    }
+    .nav-logo{
+        margin-left:3rem;
+        margin-top:0.1rem;
+        margin-bottom:1rem;
+    }
+    .nav-link a{
+        margin-left:0.5rem;
+        font-size:1rem;
+        font-weight: bold;
+    }
+    
+
+
+    .main
+    {
+        flex-wrap:wrap;
+        
+    }
+    .img
+    {
+        margin-top:0rem;
+        margin-left:1.5rem;
+        margin-bottom:0rem;
+    
+    }
+    .img img  {
+        width:300px;
+        height:400px;
+    
+    }
+
+    .desc h1
+    {  
+        margin-left:5.3rem;
+        margin-top:-9rem;
+        font-size:2rem;
+    }
+    .desc h3
+    {  
+        margin-left:5.2rem;
+        font-size:2rem;
+    }
+    
+    #h3-header
+    {
+        margin-left:1.4rem;
+        font-size: 1.4rem;
+    }
+    #de {
+        display: none;
+    }
+    .social-links
+    {
+        margin-top:-0.5rem;
+        margin-left:3.8rem;
+    }
+    button {
+
+        margin-left:5.9rem;
+
+    }
+    .about
+    {
+        flex-wrap:wrap;
+        margin-top:6.5rem;
+        margin-left: -3.8rem;
+    }
+    .about h2
+    {
+        padding-left:0;
+    }
+
+    .img-1
+    {
+        margin-top:0rem;
+        margin-left:-3.2rem;
+        margin-bottom:0rem;
+    
+    }
+    .img-1 img  {
+        width:300px;
+        height:400px;
+    
+    }
+
+
+    .skills
+    {
+        
+        flex-wrap: wrap;
+        margin-top:17rem;
+        margin-left:1rem;
+    }
+    .div-1
+    {
+        display:flex;
+        
+    }
+
+    .div-2
+    {
+        display:flex;
+    }
+
+    .html
+    {
+        margin-bottom: 2rem;
+        border:none;
+        height:150px;
+        width:120px;
+        margin-left:1.5rem;
+    }
+
+    .html i
+    {
+        font-size:6rem;
+        padding-left:1rem;
+        padding-top:1.5rem;
+
+
+    }
+    .html p
+    {   
+        font-size:1rem;
+        padding-left:1.6rem;
+        padding-top:0.2rem;
+    }
+
+    .css
+    {
+        border:none;
+        height:150px;
+        width:120px;
+        margin-left:1rem;
+    }
+    .css i
+    {
+        font-size:6rem;
+        padding-left:0.3rem;
+        padding-top:1.5rem;
+
+
+    }
+    .css p
+    {   
+        font-size:1rem;
+        padding-left:2rem;
+        padding-top:0.2rem;
+    }
+    .js
+    {
+        margin-bottom: 2rem;
+        border:none;
+        height:150px;
+        width:120px;
+        margin-left: 1rem;
+    }
+
+    .js i
+    {
+        font-size:6rem;
+        padding-left:0.5rem;
+        padding-top:1.5rem;
+
+
+    }
+    .js p
+    {   
+        font-size:0.8rem;
+        padding-left:0.8rem;
+        padding-top:0.2rem;
+    }
+    .py
+    {
+        margin-bottom: 2rem;
+        border:none;
+        height:150px;
+        width:120px;
+        margin-left:1.5rem;
+    }
+    .py i
+    {
+        font-size:6rem;
+        padding-left:0.7rem;
+        padding-top:1.5rem;
+
+
+    }
+    .py p
+    {   
+        font-size:1rem;
+        padding-left:1.1rem;
+        padding-top:0.2rem;
+    }
+    .react
+    {
+        border:none;
+        height:150px;
+        width:120px;
+        margin-left:1rem;
+    }
+    .react i
+    {
+        font-size:6rem;
+        padding-left:0.4rem;
+        padding-top:1.5rem;
+
+
+    }
+    .react p
+    {   
+        font-size:1rem;
+        padding-left:1.6rem;
+        padding-top:0.2rem;
+    }
+    .node
+    {
+        margin-bottom: 2rem;
+        border:none;
+        height:150px;
+        width:120px;
+        margin-left: 1rem;
+    }
+
+    .node i
+    {
+        font-size:4rem;
+        padding-left:1rem;
+        padding-top:3rem;
+
+
+    }
+    .node p
+    {   
+        font-size:1rem;
+        padding-left:1.7rem;
+        padding-top:0.2rem;
+    }
+    .contact
+    {
+        display:block;
+    }
+    .contact-details 
+    {
+        margin-left:1rem;
+    }
+    .contact-details i
+    {
+        margin-left:2rem;
+    }
+    .connect
+    {
+        margin-top:1rem;
+        margin-left:3rem;
+    
+    }
+    input[type="text"]
+    {
+        width:300px;
+    }
+    textarea
+    {
+        display:none;
+    }
+
+    .footer
+    {
+    
+        
+        height:70px;
+        width:10rem;
+
+
+    }
+    .footer p {
+        margin-left:-32rem;
+        
+
+    };
+
+
+}
